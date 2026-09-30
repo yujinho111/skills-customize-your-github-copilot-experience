@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "sqlite-crud",
+      "title": "SQLite and CRUD with Python",
+      "description": "Store and manage data using SQLite with insert, update, delete, and query operations.",
+      "path": "assignments/sqlite-crud",
+      "dueDate": "2026-10-07",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
